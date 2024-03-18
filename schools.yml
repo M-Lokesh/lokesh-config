@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 schools:
-  message: "Welcome to schools related web APIs "
+  message: "Welcome to schools related web hooks APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
